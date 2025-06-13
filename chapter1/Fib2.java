@@ -1,6 +1,6 @@
 package chapter1;
 
-public class Fib1 {
+public class Fib2 {
 
     public static void main(String[] args) {
         System.out.println(fib1(5));
